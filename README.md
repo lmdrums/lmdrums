@@ -1,6 +1,6 @@
 # Hi, I'm Lewis! 👋
 
-I am a passionate software engineer. I work mostly using Python and am expanding my knowledge in other languages.
+I am an aspiring software developer learning Python to a high level and looking to expand my knowledge with other languages.
 
 ![lmdrums's Stats](https://github-readme-stats.vercel.app/api?username=lmdrums&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
