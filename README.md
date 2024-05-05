@@ -12,6 +12,6 @@ I am an aspiring software developer learning Python to a high level and looking 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js)](https://skillicons.dev)
 
-## 📬 Reach Out
+## 📬 News
 
-- Stay up to date with latest projects [here](https://instagram.com/lmprogramming)
+- Stay up to date with latest projects on [Instagram](https://instagram.com/lmprogramming) + [Twitter](https://twitter.com/lmprogramming)
