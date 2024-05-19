@@ -8,6 +8,7 @@ I am an aspiring software developer learning Python to a high level and looking 
 
 - Currently working on projects with [aritra-codes](https://github.com/aritra-codes)
 - Our latest release [Valorant AutoTracker](https://github.com/aritra-codes/valorant-autotracker)
+- Just released [Sparx Bookwork Logger](https://github.com/lmdrums/Sparx-Bookwork-Logger)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js)](https://skillicons.dev)
