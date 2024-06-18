@@ -11,7 +11,7 @@ I am an aspiring software developer learning Python to a high level and looking 
 - Just released [Sparx Bookwork Logger](https://github.com/lmdrums/Sparx-Bookwork-Logger)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,linux,git,github,cs,bash,gcp,raspberrypi,svg,debian,dotnet)](https://skillicons.dev)
 
 ## 📬 News
 
